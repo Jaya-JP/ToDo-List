@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.Bg-img{
+     background: url('bgimg1.jpg') no-repeat fixed;
+     background-size: cover;
+     height: 100vh;
+}
